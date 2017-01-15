@@ -1,0 +1,29 @@
+{
+  "name": "chatbot1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botbuilder": "^3.5.1",
+    "ejs": "^2.5.5",
+    "express": "*",
+    "mongojs": "^2.4.0",
+    "mongoose": "*",
+    "restify": "*",
+    "bluebird": "*",
+    "dotenv-extended": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhavNPA/moneytorbot1.git"
+  },
+  "homepage": "https://github.com/anubhavNPA/moneytorbot1#readme",
+  "description": ""
+}
